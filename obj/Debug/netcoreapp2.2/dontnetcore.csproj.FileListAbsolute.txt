@@ -1,0 +1,14 @@
+/Users/leo/repositorio/labs/dontnetcore/bin/Debug/netcoreapp2.2/dontnetcore.deps.json
+/Users/leo/repositorio/labs/dontnetcore/bin/Debug/netcoreapp2.2/dontnetcore.runtimeconfig.json
+/Users/leo/repositorio/labs/dontnetcore/bin/Debug/netcoreapp2.2/dontnetcore.runtimeconfig.dev.json
+/Users/leo/repositorio/labs/dontnetcore/bin/Debug/netcoreapp2.2/dontnetcore.dll
+/Users/leo/repositorio/labs/dontnetcore/bin/Debug/netcoreapp2.2/dontnetcore.pdb
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.csprojAssemblyReference.cache
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.csproj.CoreCompileInputs.cache
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.RazorAssemblyInfo.cache
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.RazorAssemblyInfo.cs
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.AssemblyInfoInputs.cache
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.AssemblyInfo.cs
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.RazorTargetAssemblyInfo.cache
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.dll
+/Users/leo/repositorio/labs/dontnetcore/obj/Debug/netcoreapp2.2/dontnetcore.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CA2DDEC7-628C-45BC-8B13-37D804684CD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetcore/Startup.cs">
+    <Files>
+      <File FileName="dotnetcore/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="dotnetcore/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetcore" expanded="True">
+            <Node name="dotnetcore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotnetcore FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
